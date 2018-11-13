@@ -4,7 +4,8 @@
         "Code Services"
     ],
     "author": {
-        "email": "corenodejs@clearblade.com"
+        "email": "yjain@clearblade.com",
+        "name":"Yash Jain"
     },
     "clouds": [],
     "description": "Partial Implementation of NodeJs' Console library/global",
@@ -18,7 +19,8 @@
         "console",
         "log",
         "node",
-        "js"
+        "js",
+        "global"
     ],
     "license": "MIT",
     "name": "ConsoleNodeJs",
@@ -28,5 +30,13 @@
     ],
     "protocols": [],
     "things": [],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashjain28/ConsoleNodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashjain28/ConsoleNodeJs/issues"
+  },
+  "homepage": "https://github.com/yashjain28/ConsoleNodeJs#readme"
 }
