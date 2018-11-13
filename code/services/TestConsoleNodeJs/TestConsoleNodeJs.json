@@ -1,0 +1,15 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 45,
+    "dependencies": "log,ConsoleNodeJs",
+    "execution_timeout": 60,
+    "logging_enabled": "true",
+    "name": "TestConsoleNodeJs",
+    "params": [
+        "{}"
+    ],
+    "permissions": {},
+    "run_user": "",
+    "source": "TestConsoleNodeJs.js"
+}
