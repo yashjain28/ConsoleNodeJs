@@ -1,0 +1,32 @@
+{
+    "asset_types": [
+        "Code Libraries",
+        "Code Services"
+    ],
+    "author": {
+        "email": "corenodejs@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Partial Implementation of NodeJs' Console library/global",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "console",
+        "log",
+        "node",
+        "js"
+    ],
+    "license": "MIT",
+    "name": "ConsoleNodeJs",
+    "private": false,
+    "prog_lang": [
+        "javascript"
+    ],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
