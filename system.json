@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "Partial Implementation of NodeJs' Console library/global",
+    "messaging_url": "messaging.clearblade.com:1883",
+    "name": "ConsoleNodeJs",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "a0b286be0bb883f8a78caf99b46c",
+    "system_secret": ""
+}
