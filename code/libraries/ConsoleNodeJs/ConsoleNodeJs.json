@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "jsutil",
+    "description": "Partial Implementation of NodeJs' Console library/global",
+    "name": "ConsoleNodeJs",
+    "version": 16,
+    "visibility": "system"
+}
